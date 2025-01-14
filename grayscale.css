@@ -1,0 +1,8 @@
+.grayscale-image {
+    width: 200px;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+  }
+  .grayscale-image:hover {
+    filter: none;
+  }
