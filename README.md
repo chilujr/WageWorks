@@ -40,7 +40,7 @@ To run this site locally:
 4. Set up a local PHP server for contact form testing
 
 ## Production Deployment
-The site is currently hosted at: https://chilujr.github.io/WageWorks/
+The site is currently hosted at: https://chilujr.github.io/WageWorks/ for Demo purposes only (Full site link will be updated soon)
 
 ## Support
 For any technical issues or inquiries, please contact O31 Media directly.
